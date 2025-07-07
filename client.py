@@ -1,5 +1,3 @@
-# client.py – Separater Client für dynamisches Leader-Discovery und Chat via TCP
-
 import socket, threading, json, time, sys
 
 DISCOVERY_PORT = 12345
